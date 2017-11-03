@@ -1,0 +1,53 @@
+.todo-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.row {
+    margin: 0;
+}
+
+.title {
+    color: #ffffff;
+    padding: 10px 0px;
+    text-align: center;
+    font-weight: bold;
+    background: #448AFF;
+}
+
+.todo-area {
+    padding: 10px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.todo-add {
+    padding-bottom: 10px;
+}
+
+.todo-text {
+    line-height: 2.5;
+}
+
+.todo-list {
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.btn-action {
+    margin-left: 10px;
+}
+
+.orange {
+    background: #FF9800;
+}
+
+.red {
+    background: #F44336;
+}
+
+.blue {
+    background: #448AFF;
+}
