@@ -1,0 +1,25 @@
+{
+  "name": "rgb-web",
+  "version": "1.0.0",
+  "description": "RGB front-end to back-end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinodau/rgb-web.git"
+  },
+  "author": "Helmi Satria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinodau/rgb-web/issues"
+  },
+  "homepage": "https://github.com/tinodau/rgb-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
